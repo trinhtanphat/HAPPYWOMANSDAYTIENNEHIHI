@@ -42,8 +42,8 @@ html,body {
 }
 @media (min-aspect-ratio: 16/9) {
   #video {
-      /*width:auto;
-      height: auto;*/
+      //width:auto;
+      //height: auto;
       align-self: center;
       width: 900px;
       height: 430px;
